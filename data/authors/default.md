@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Ann-Cathrin Konrad
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Gründerin und UX-Designerin
+company: MVP Schmiede
+email: ann-cathrin.konrad@funkensee.de
+github: https://github.com/anky6690
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Ann-Cathrin Konrad und Michael Schmid haben zusammen am EXIST geförderten Projekt happie gearbeitet.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Im Gespräch mit anderen Gründern ist ihnen aufgefallen, dass viele Ideen noch vor dem ersten Prototyp scheitern. Angehende Gründer geben frühzeitig auf, weil sie keinen Programmierer finden. Dabei kann von der Idee bis zur Programmierung der Großteil der Arbeit als Vorbereitung durch das Gründerteam geleistet werden.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In ihren Workshops zeigen Michael und Ann-Cathrin, wie man als NICHT-Programmierer ein digitales unternehmerisches Projekt so vorbereitet, dass die Entwicklung mit minimalstem Aufwand umgesetzt wird.
