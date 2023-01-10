@@ -14,10 +14,16 @@ export default async (req, res) => {
   }
 
   try {
-    const test = await mailchimp.lists.addListMember(process.env.MAILCHIMP_AUDIENCE_ID, {
-      email_address: email,
-      status: 'subscribed',
-    })
+    const test = await mailchimp.lists.addListMember(
+      process.env.MAILCHIMP_AUDIENCE_ID,
+      {
+        email_address: email,
+        status: 'pending',
+      },
+      {
+        skipMergeValidation: true,
+      }
+    )
     return res.status(201).json({ error: '' })
   } catch (error) {
     return res.status(500).json({ error: error.message || error.toString() })
