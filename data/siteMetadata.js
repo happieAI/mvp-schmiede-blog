@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Ein Gründerblog, der Dich zum digitalen Prototypen bringt.',
   language: 'de-de',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://mvp-schmiede-blog.vercel.app',
   siteRepo: 'https://github.com/capsloq/mvp-schmiede-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
