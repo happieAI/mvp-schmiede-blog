@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'de-de',
   theme: 'system', // system, dark or light
   siteUrl: 'https://mvp-schmiede-blog.vercel.app',
-  siteRepo: 'https://github.com/capsloq/mvp-schmiede-blog',
+  siteRepo: 'https://github.com/happieAI/mvp-schmiede-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
