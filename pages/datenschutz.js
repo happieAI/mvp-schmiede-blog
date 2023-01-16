@@ -4,9 +4,9 @@ export default function Datenschutz() {
   return (
     <div className="prose mt-24 text-left dark:text-white">
       <PageTitle>
-        Under Construction{' '}
+        Datenschutzerklärung{' '}
         <span role="img" aria-label="roadwork sign">
-          🚧
+          📚
         </span>
       </PageTitle>
       <p>
@@ -15,13 +15,10 @@ export default function Datenschutz() {
       <p>
         Mit den nachfolgenden Informationen wollen wir Ihnen einen &Uuml;berblick &uuml;ber die
         Verarbeitung Ihrer personenbezogenen Daten auf unserer Website{' '}
-        <a href="https://maklersuite.de" aria-invalid="true">
-          https://maklersuite.de
-        </a>{' '}
-        (nachfolgend "<b>Website</b>" genannt) geben. Wir wollen Sie ebenfalls &uuml;ber Ihre Rechte
-        aus den Datenschutzgesetzen informieren. Die Verarbeitung Ihrer personenbezogenen Daten
-        durch uns erfolgt stets im Einklang mit der Datenschutzgrundverordnung (nachfolgend<b> </b>"
-        <b>DSGVO</b>" genannt)
+        <a href="https://maklersuite.de">https://maklersuite.de</a> (nachfolgend "<b>Website</b>"
+        genannt) geben. Wir wollen Sie ebenfalls &uuml;ber Ihre Rechte aus den Datenschutzgesetzen
+        informieren. Die Verarbeitung Ihrer personenbezogenen Daten durch uns erfolgt stets im
+        Einklang mit der Datenschutzgrundverordnung (nachfolgend<b> </b>"<b>DSGVO</b>" genannt)
         <b> </b>sowie allen geltenden landesspezifischen Datenschutzbestimmungen.
       </p>
       <h1 className="dark:text-white">

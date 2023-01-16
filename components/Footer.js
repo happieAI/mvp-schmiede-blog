@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer>
       <div className="mt-16 flex flex-col items-center">
-        {/* <div className="mb-3 flex space-x-4"> */}
+        {/* <div className="flex mb-3 space-x-4"> */}
         {/* <SocialIcon kind="mail" href={`mailto:${siteMetadata.email}`} size="6" />
           <SocialIcon kind="github" href={siteMetadata.github} size="6" />
           <SocialIcon kind="facebook" href={siteMetadata.facebook} size="6" />
@@ -28,10 +28,10 @@ export default function Footer() {
         </div> */}
         <div className="grid grid-cols-2">
           <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-            <Link href="https://landladen.de/pages/impressum">Impressum</Link>
+            <Link href="/impressum">Impressum</Link>
           </div>
           <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-            <Link href="https://landladen.de/pages/datenschutzerklarung">Datenschutzerklärung</Link>
+            <Link href="/datenschutz">Datenschutzerklärung</Link>
           </div>
         </div>
       </div>

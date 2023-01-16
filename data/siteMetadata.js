@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'MVP Schmiede',
   author: 'Ann-Cathrin Konrad',
-  headerTitle: 'MVP Bootcamp ohne programmieren zu können.',
+  headerTitle: 'Digital Entrepreneur',
   description: 'Ein Gründerblog, der Dich zum digitalen Prototypen bringt.',
   language: 'de-de',
   theme: 'system', // system, dark or light
